@@ -1,5 +1,5 @@
 # Descrição do projeto
-Muitas vezes é necessário prever quando os clientes vão retirar o dinheiro da conta bancária e permanecer inativos. Sendo capaz de prever isso, o banco pode tomar as medidas necessárias para evitar que os clientes retirem grandes somas e permaneçam clientes ativos/fiéis. 
+Muitas vezes é essencial prever o momento em que os clientes efetuarão saques de suas contas bancárias e entrarão em inatividade. Ao realizar essa previsão, o banco pode adotar as medidas adequadas para evitar retiradas significativas, promovendo a manutenção da fidelidade de seus clientes, bem como mantendo-os ativos.
 
 O objetivo deste projeto consiste em criar modelos de machine learning que sejam capazes prever os clientes que irão se desligar do banco com base nas informações fornecidas.
 
