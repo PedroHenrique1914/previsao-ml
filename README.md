@@ -1,7 +1,7 @@
 # Descrição do projeto
 O objetivo deste projeto consiste em criar modelos de machine learning que sejam capazes prever os clientes que irão se desligar do banco com base nas informações fornecidas.
 
-Para isso, utilizei 4 algoritmos para criar modelos distintos e comparar suas taxas de precisão. Os algoritmos utlizados foram Naive Bayes, Random Forest, Árvore de Decisão e Regressão Logística.
+Para isso, utilizei 4 algoritmos para criar modelos distintos e comparar suas taxas de precisão. Os algoritmos utilizados foram Naive Bayes, Random Forest, Árvore de Decisão e Regressão Logística.
 Tendo em vista que o tratamento da base de dados é uma etapa fundamental antes da implementação de qualquer modelo ou análise, me dediquei inicialmente em preparar os dados de maneira adequada, para só depois realizar análises exploratórias mais aprofundadas e implementar os modelos preditivos.
 # Explicação da base de dados
   - customer_id: identificador exclusivo para cada cliente.
