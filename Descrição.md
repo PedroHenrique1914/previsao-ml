@@ -24,4 +24,5 @@ Tendo em vista que o tratamento da base de dados é uma etapa fundamental antes 
   - previous_month_balance: Saldo da conta no mês anterior.
   - churn: a variável de destino que indica se o cliente abandonou (1 para desligamento, 0 para não desligamento).
   - last_transaction: carimbo de data/hora da última transação do cliente.
+
 A base de dados se encontra disponível em: [https://www.kaggle.com/datasets/pentakrishnakishore/bank-customer-churn-data/data]
